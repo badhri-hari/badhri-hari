@@ -1,4 +1,4 @@
-<img src="https://myreadme.vercel.app/api/embed/badhri-hari?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <svg width="76" height="76" viewBox="0 0 76 76" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M44.4494 29.6707L38.4437 35.2582L32.8712 24.0176L35.755 17.5526C36.505 16.2401 37.675 16.2551 38.4062 17.5526L44.4494 29.6707Z" fill="#FFA000"/>
 <path d="M32.8712 24.0176L38.4437 35.2582L16 56.1363L32.8712 24.0176Z" fill="#F57F17"/>
